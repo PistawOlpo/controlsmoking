@@ -103,7 +103,7 @@ public class MainFullscreenActivity extends AppCompatActivity {
                 public void onClick (View view) {
                 if(mSetNotificationButton != null) {
                     if(mSetNotificationButton.isChecked()) {
-                        Toast.makeText(getApplicationContext(),"Notification On",Toast.LENGTH_LONG).show();
+                         Toast.makeText(getApplicationContext(),"Notification On",Toast.LENGTH_LONG).show();
 
                     }
                 }
