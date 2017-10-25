@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">control smoking</string>
+
+    <string name="i_smoked">I Smoked</string>
+    <string name="set_notification">Set Notification</string>
+    <string name="turn_off_notification">Turn Off Notification</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="You_can_smoke">Time is up \n You can smoke.</string>
+</resources>
